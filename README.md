@@ -1,7 +1,7 @@
 # unity-pinball-game
 Table of Contents
-- Instruction for running the executable
 - Info on each folders contents
+- Instruction for running the executable
 - How this folder is structured
 - Additional recourses and free Assets used
 
